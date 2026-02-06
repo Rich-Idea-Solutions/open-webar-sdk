@@ -145,6 +145,6 @@ WebAR SDK Samples and all tracking types are available **without any usage limit
 
 ## 📮 Support and API key requests
 For any questions about the library or API keys, contact us here:
-- https://t.me/was_team
+- @Upwork_Agency10 - telegram
 - support@web-ar.studio
-- https://discord.gg/4q5dbAb4GZ
+- babybear2939@gmail.com
